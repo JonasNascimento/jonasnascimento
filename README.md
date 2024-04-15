@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏻, I'm Jonas</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-
+<img align="right" alt="Coding" Width="400" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media">
 
 - 📫 How to reach me: **jonas.soares.nascimento@gmail.com**
 
