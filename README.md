@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 
-- 📫 How to reach me **jonas.soares.nascimento@gmail.com**
+- 📫 How to reach me: **jonas.soares.nascimento@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
